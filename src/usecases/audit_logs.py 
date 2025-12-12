@@ -1,0 +1,17 @@
+import pandas as pd
+import sys
+
+def main()
+    print:(''audit logs'')
+
+rows []
+try:
+    def pd = pd.Dataframe(rows)
+    print pd
+
+Except:
+    def pd = exception exception e  
+    print:(''Error:'' e)
+
+if --name-- = --main--
+def main()
